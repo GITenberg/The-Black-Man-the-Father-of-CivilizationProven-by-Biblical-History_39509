@@ -1,0 +1,27 @@
+_repo: The-Black-Man-the-Father-of-CivilizationProven-by-Biblical-History_39509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webb, James Morris
+    alias: Webb, Rev.
+    gutenberg_agent_id: '40056'
+    url: http://www.gutenberg.org/2009/agents/40056
+description: The regeneration of Africa / by P. Ka Isaka Seme (p. 41-49).
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blacks in the Bible'
+- !lcsh 'Civilization, Ancient'
+- !lcsh 'Theological anthropology'
+- !lcc 'BS'
+title: The Black Man, the Father of Civilization, Proven by Biblical History
+url: http://www.gutenberg.org/ebooks/39509
