@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40056'
     url: http://www.gutenberg.org/2009/agents/40056
 description: The regeneration of Africa / by P. Ka Isaka Seme (p. 41-49).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39509#The-Black-Man-the-Father-of-CivilizationProven-by-Biblical-History
 gutenberg_issued: '2012-04-22'
 gutenberg_type: Text
 identifiers:
